@@ -1,0 +1,6 @@
+name: Yazhini
+wake_word: yazhini
+language: ta-IN
+tts_engine: piper
+stt_engine: whisper
+system_prompt_file: system_prompt.txt
